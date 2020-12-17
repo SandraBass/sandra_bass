@@ -6,7 +6,7 @@ from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton, Message
 from telebot.types import LabeledPrice
 import requests 
 
-TOKEN = '1436206524:AAGAOPXMmMVgdSRg6ZqLssFe_oUgX5A6m1E'
+TOKEN = ''
 
 bot = telebot.TeleBot(TOKEN)
 
